@@ -1,0 +1,13 @@
+C:\Users\Vinny\source\repos\Exercicio6-MDC\bin\Debug\netcoreapp3.1\Exercicio6-MDC.exe
+C:\Users\Vinny\source\repos\Exercicio6-MDC\bin\Debug\netcoreapp3.1\Exercicio6-MDC.deps.json
+C:\Users\Vinny\source\repos\Exercicio6-MDC\bin\Debug\netcoreapp3.1\Exercicio6-MDC.runtimeconfig.json
+C:\Users\Vinny\source\repos\Exercicio6-MDC\bin\Debug\netcoreapp3.1\Exercicio6-MDC.runtimeconfig.dev.json
+C:\Users\Vinny\source\repos\Exercicio6-MDC\bin\Debug\netcoreapp3.1\Exercicio6-MDC.dll
+C:\Users\Vinny\source\repos\Exercicio6-MDC\bin\Debug\netcoreapp3.1\Exercicio6-MDC.pdb
+C:\Users\Vinny\source\repos\Exercicio6-MDC\obj\Debug\netcoreapp3.1\Exercicio6-MDC.csprojAssemblyReference.cache
+C:\Users\Vinny\source\repos\Exercicio6-MDC\obj\Debug\netcoreapp3.1\Exercicio6-MDC.AssemblyInfoInputs.cache
+C:\Users\Vinny\source\repos\Exercicio6-MDC\obj\Debug\netcoreapp3.1\Exercicio6-MDC.AssemblyInfo.cs
+C:\Users\Vinny\source\repos\Exercicio6-MDC\obj\Debug\netcoreapp3.1\Exercicio6-MDC.csproj.CoreCompileInputs.cache
+C:\Users\Vinny\source\repos\Exercicio6-MDC\obj\Debug\netcoreapp3.1\Exercicio6-MDC.dll
+C:\Users\Vinny\source\repos\Exercicio6-MDC\obj\Debug\netcoreapp3.1\Exercicio6-MDC.pdb
+C:\Users\Vinny\source\repos\Exercicio6-MDC\obj\Debug\netcoreapp3.1\Exercicio6-MDC.genruntimeconfig.cache
